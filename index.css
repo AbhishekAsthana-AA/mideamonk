@@ -1,0 +1,27 @@
+.slider {
+	width: 300px;
+	height: 250px;
+	position: relative;
+	scroll-behavior: smooth;
+	box-shadow: 0px 0px 2px 2px #ccc;	
+}
+
+.box1 {
+	display: flex;
+}
+
+.caraousel img {
+	border-top: 4px solid black;
+}
+
+button {
+ border-radius: 50%;
+ height: 25px;
+ width: 25px;
+ margin-top: 10px;
+ background-color: black;
+ color: white;
+ text-align: center;
+ cursor: pointer;
+ margin: 10px;
+}
